@@ -22,7 +22,7 @@ func main() {
 
 	if !found {
 		fmt.Println(os.Args[1])
-	} else {	
+	} else {
 		fmt.Println(string(chars))
 	}
 }

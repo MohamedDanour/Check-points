@@ -26,10 +26,3 @@ func main() {
 		fmt.Println(string(chars))
 	}
 }
-
-
-"HEELO THHHHIIIIS ISSSSS SAFFFAAAEEEEEEEEE"
-
-
-
-

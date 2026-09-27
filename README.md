@@ -1,6 +1,8 @@
 # Checkpoint Practice 🎯
 
-Practicing checkpoint questions together.
+Practicing checkpoint questions together
+
+[01 edu repository](https://github.com/01-edu/public)
 
 ## Contributors
 

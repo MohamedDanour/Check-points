@@ -24,16 +24,10 @@ Practicing checkpoint questions together on [01 edu repository](https://github.c
 ## Progress
 
 <!-- PROGRESS:START -->
-**10 / 47 solved**
+- **Muhammed** `███░░░░░░░░░░░░░░░░░` 8 / 47 (17%)
+- **Zineb** `████░░░░░░░░░░░░░░░░` 10 / 47 (21%)
 
-`████░░░░░░░░░░░░░░░░` 10 / 47 (21%)
-
-- **Muhammed**: 8 solved  
-  `███░░░░░░░░░░░░░░░░░` 8 / 47 (17%)
-- **Zineb**: 10 solved  
-  `████░░░░░░░░░░░░░░░░` 10 / 47 (21%)
-
-🤝 Solved by both: **8**
+🤝 Solved by both: **8 / 47**
 
 | # | Question | Muhammed | Zineb |
 |---:|---|:---:|:---:|

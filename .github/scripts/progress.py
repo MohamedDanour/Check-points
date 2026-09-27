@@ -14,11 +14,13 @@ def bar(n):
 any_solved = sum(1 for r in rows if any(solved(r, p) for p in people))
 all_solved = sum(1 for r in rows if all(solved(r, p) for p in people))
 
-lines = []
+lines = [f'**{any_solved} / {total} solved**', '', bar(any_solved), '']
 for p in people:
     n = sum(1 for r in rows if solved(r, p))
-    lines.append(f'- **{p}** {bar(n)}')
-lines += ['', f'🤝 Solved by both: **{all_solved} / {total}**', '']
+    lines.append(f'- **{p}**: {n} solved  ')
+    lines.append(f'  {bar(n)}')
+lines += ['', f'🤝 Solved by both: **{all_solved}**', '']
+
 # Checklist table
 lines.append('| # | Question | ' + ' | '.join(people) + ' |')
 lines.append('|---:|---|' + '|'.join([':---:'] * len(people)) + '|')

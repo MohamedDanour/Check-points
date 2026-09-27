@@ -1,0 +1,50 @@
+name: Update README progress
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Build progress checklist
+        run: python3 .github/scripts/progress.py
+
+      - name: Build commit stats table
+        shell: bash
+        run: |
+          {
+            echo "| Contributor | Commits | Lines added | Lines removed |"
+            echo "|---|---:|---:|---:|"
+            git log --format='%aN' | grep -v 'github-actions' | sort -u | while read -r name; do
+              commits=$(git log --author="$name" --oneline | wc -l)
+              read add del < <(git log --author="$name" --numstat --format='' | awk '{a+=$1; d+=$2} END {print a+0, d+0}')
+              echo "| $name | $commits | $add | $del |"
+            done
+          } > /tmp/stats.md
+
+          python3 - <<'EOF'
+          import re
+          readme = open('README.md', encoding='utf-8').read()
+          table = open('/tmp/stats.md').read()
+          readme = re.sub(r'<!-- STATS:START -->.*?<!-- STATS:END -->',
+                          lambda m: '<!-- STATS:START -->\n' + table + '\n<!-- STATS:END -->',
+                          readme, flags=re.S)
+          open('README.md', 'w', encoding='utf-8').write(readme)
+          EOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "Update README progress [skip ci]" && git push)

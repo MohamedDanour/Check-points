@@ -23,7 +23,7 @@ Practicing checkpoint questions together
   </tr>
 </table>
 
+## Progress
 
-
-
-
+<!-- PROGRESS:START -->
+<!-- PROGRESS:END -->

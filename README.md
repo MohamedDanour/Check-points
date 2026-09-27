@@ -26,10 +26,16 @@ Practicing checkpoint questions together
 ## Progress
 
 <!-- PROGRESS:START -->
-- **Muhammed** `███░░░░░░░░░░░░░░░░░` 8 / 47 (17%)
-- **Zineb** `████░░░░░░░░░░░░░░░░` 10 / 47 (21%)
+**10 / 47 solved**
 
-🤝 Solved by both: **8 / 47**
+`████░░░░░░░░░░░░░░░░` 10 / 47 (21%)
+
+- **Muhammed**: 8 solved  
+  `███░░░░░░░░░░░░░░░░░` 8 / 47 (17%)
+- **Zineb**: 10 solved  
+  `████░░░░░░░░░░░░░░░░` 10 / 47 (21%)
+
+🤝 Solved by both: **8**
 
 | # | Question | Muhammed | Zineb |
 |---:|---|:---:|:---:|

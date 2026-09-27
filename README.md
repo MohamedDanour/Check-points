@@ -25,7 +25,7 @@ Practicing checkpoint questions together on [01 edu repository](https://github.c
 
 <!-- PROGRESS:START -->
 - **Muhammed** `███░░░░░░░░░░░░░░░░░` 8 / 47 (17%)
-- **Zineb** `████░░░░░░░░░░░░░░░░` 10 / 47 (21%)
+- **Zineb** `████░░░░░░░░░░░░░░░░` 11 / 47 (23%)
 
 🤝 Solved by both: **8 / 47**
 
@@ -43,7 +43,7 @@ Practicing checkpoint questions together on [01 edu repository](https://github.c
 | 10 | cameltosnakecase 🤝 | ✅ | ✅ |
 | 11 | countrepeats | ⬜ | ⬜ |
 | 12 | digitlen | ⬜ | ⬜ |
-| 13 | firstword | ⬜ | ⬜ |
+| 13 | firstword | ⬜ | ✅ |
 | 14 | fishandchips | ⬜ | ⬜ |
 | 15 | gcd | ⬜ | ⬜ |
 | 16 | hashcode | ⬜ | ⬜ |

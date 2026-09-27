@@ -1,7 +1,48 @@
 question,Muhammed,Zineb
-Reverse a string,x,x
-Two Sum,x,
-Valid parentheses,,x
-Binary search,x,x
-Merge two sorted lists,,
-Linked list cycle,,
+question,Muhammed,Zineb
+onlyz,x,x
+checknumber,x,x
+countalpha,x,x
+countcharacter,x,x
+printif,x,x
+printifnot,,
+rectperimeter,,
+retainfirsthalf,,
+cameltosnakecase,x,x
+countrepeats,,
+digitlen,,
+firstword,,
+fishandchips,,
+gcd,,
+hashcode,,
+lastword,x,x
+longestword,,
+lastrune,,x
+repeatalpha,,x
+searchreplace,,
+wordanatomy,,
+cleanstr,,
+expandstr,,
+findprevprime,,
+fromto,,
+iscapitalized,,
+itoa,,
+passwordentropy,,
+printmemory,,
+printrevcomb,,
+thirdtimeisacharm,,
+weareunique,,
+zipstring,,
+addprimesum,,
+canjump,,
+chunk,,
+concatalternate,,
+concatslice,,
+fprime,,
+hiddenp,,
+inter,,
+reversestrcap,,
+saveandmiss,,
+union,,
+wdmatch,,
+fifthandskip,,

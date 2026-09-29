@@ -25,7 +25,7 @@ Practicing checkpoint questions together on [01 edu repository](https://github.c
 
 <!-- PROGRESS:START -->
 - **Muhammed** `███░░░░░░░░░░░░░░░░░` 8 / 47 (17%)
-- **Zineb** `████░░░░░░░░░░░░░░░░` 11 / 47 (23%)
+- **Zineb** `█████░░░░░░░░░░░░░░░` 13 / 47 (28%)
 
 🤝 Solved by both: **8 / 47**
 
@@ -45,7 +45,7 @@ Practicing checkpoint questions together on [01 edu repository](https://github.c
 | 12 | digitlen | ⬜ | ⬜ |
 | 13 | firstword | ⬜ | ✅ |
 | 14 | fishandchips | ⬜ | ⬜ |
-| 15 | gcd | ⬜ | ⬜ |
+| 15 | gcd | ⬜ | ✅ |
 | 16 | hashcode | ⬜ | ⬜ |
 | 17 | lastword 🤝 | ✅ | ✅ |
 | 18 | longestword | ⬜ | ⬜ |
@@ -64,7 +64,7 @@ Practicing checkpoint questions together on [01 edu repository](https://github.c
 | 31 | printrevcomb | ⬜ | ⬜ |
 | 32 | thirdtimeisacharm | ⬜ | ⬜ |
 | 33 | weareunique | ⬜ | ⬜ |
-| 34 | zipstring | ⬜ | ⬜ |
+| 34 | zipstring | ⬜ | ✅ |
 | 35 | addprimesum | ⬜ | ⬜ |
 | 36 | canjump | ⬜ | ⬜ |
 | 37 | chunk | ⬜ | ⬜ |

@@ -13,7 +13,7 @@ countrepeats,,
 digitlen,,
 firstword,,x
 fishandchips,,
-gcd,,
+gcd,,x
 hashcode,,
 lastword,x,x
 longestword,,
@@ -32,7 +32,7 @@ printmemory,,
 printrevcomb,,
 thirdtimeisacharm,,
 weareunique,,
-zipstring,,
+zipstring,,x
 addprimesum,,
 canjump,,
 chunk,,

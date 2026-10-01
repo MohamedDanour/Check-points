@@ -25,7 +25,7 @@ Practicing checkpoint questions together on [01 edu repository](https://github.c
 
 <!-- PROGRESS:START -->
 - **Muhammed** `███░░░░░░░░░░░░░░░░░` 8 / 47 (17%)
-- **Zineb** `█████░░░░░░░░░░░░░░░` 13 / 47 (28%)
+- **Zineb** `██████░░░░░░░░░░░░░░` 14 / 47 (30%)
 
 🤝 Solved by both: **8 / 47**
 
@@ -63,7 +63,7 @@ Practicing checkpoint questions together on [01 edu repository](https://github.c
 | 30 | printmemory | ⬜ | ⬜ |
 | 31 | printrevcomb | ⬜ | ⬜ |
 | 32 | thirdtimeisacharm | ⬜ | ⬜ |
-| 33 | weareunique | ⬜ | ⬜ |
+| 33 | weareunique | ⬜ | ✅ |
 | 34 | zipstring | ⬜ | ✅ |
 | 35 | addprimesum | ⬜ | ⬜ |
 | 36 | canjump | ⬜ | ⬜ |

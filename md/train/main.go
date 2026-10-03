@@ -1,28 +1,15 @@
-package main
+package train
 
 import (
 	"fmt"
-	"os"
+	"train"
 )
 
 func main() {
-	if len(os.Args) != 4 {
-		return
-	}
-
-	chars := []rune(os.Args[1])
-	found := false
-
-	for index, char := range chars {
-		if string(char) == os.Args[2] {
-			chars[index] = []rune(os.Args[3])[0]
-			found = true
-		}
-	}
-
-	if !found {
-		fmt.Println(os.Args[1])
-	} else {	
-		fmt.Println(string(chars))
-	}
+	fmt.Println(train.IsCapitalized("Hello! How are you?"))
+	fmt.Println(train.IsCapitalized("Hello How Are You"))
+	fmt.Println(train.IsCapitalized("Whats 4this 100K?"))
+	fmt.Println(train.IsCapitalized("Whatsthis4"))
+	fmt.Println(train.IsCapitalized("!!!!Whatsthis4"))
+	fmt.Println(train.IsCapitalized(""))
 }

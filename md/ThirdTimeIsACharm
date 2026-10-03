@@ -1,0 +1,9 @@
+package train
+
+func ThirdTimeIsACharm(str string) string {
+	newStr := ""
+	for i := 2; i < len(str); i += 3 { // 2 5 8
+		newStr += string(str[i])
+	}
+	return newStr
+}

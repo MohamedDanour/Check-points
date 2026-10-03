@@ -1,0 +1,28 @@
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	var First_loop int
+	var Second_loop int
+	var Third_loop int
+	for First_loop = 9; First_loop >= 2; First_loop-- {
+		for Second_loop = 8; Second_loop >= 1; Second_loop-- {
+			for Third_loop = 7; Third_loop >= 0; Third_loop-- {
+				if (First_loop > Second_loop) && (Second_loop > Third_loop) {
+					fmt.Print(First_loop)
+					fmt.Print(Second_loop)
+					fmt.Print(Third_loop)
+					if !(First_loop == 2 && Second_loop == 1 && Third_loop == 0) {
+						fmt.Print(", ")
+					}
+				}
+
+			}
+		}
+	}
+
+	return
+}

@@ -45,7 +45,7 @@
 | 13 | firstword | ⬜ | ✅ |
 | 14 | fishandchips | ⬜ | ⬜ |
 | 15 | gcd | ⬜ | ✅ |
-| 16 | hashcode | ⬜ | ✅ |
+| 16 | hashcode | ⬜ | ⬜ |
 | 17 | lastword 🤝 | ✅ | ✅ |
 | 18 | longestword | ⬜ | ⬜ |
 | 19 | lastrune | ⬜ | ✅ |

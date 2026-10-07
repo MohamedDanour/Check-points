@@ -1,6 +1,5 @@
 # Checkpoint Practice 🎯
-
-Practicing checkpoint questions together on [01 edu repository](https://github.com/01-edu/public)
+[01 edu repository](https://github.com/01-edu/public)
 
 ## Contributors
 
@@ -46,7 +45,7 @@ Practicing checkpoint questions together on [01 edu repository](https://github.c
 | 13 | firstword | ⬜ | ✅ |
 | 14 | fishandchips | ⬜ | ⬜ |
 | 15 | gcd | ⬜ | ✅ |
-| 16 | hashcode | ⬜ | ⬜ |
+| 16 | hashcode | ⬜ | ✅ |
 | 17 | lastword 🤝 | ✅ | ✅ |
 | 18 | longestword | ⬜ | ⬜ |
 | 19 | lastrune | ⬜ | ✅ |

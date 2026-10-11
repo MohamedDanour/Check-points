@@ -24,7 +24,7 @@
 
 <!-- PROGRESS:START -->
 - **Muhammed** `███░░░░░░░░░░░░░░░░░` 12 / 65 (18%)
-- **Zineb** `█████░░░░░░░░░░░░░░░` 17 / 65 (26%)
+- **Zineb** `█████░░░░░░░░░░░░░░░` 18 / 65 (28%)
 
 🤝 Solved by both: **12 / 65**
 
@@ -39,7 +39,7 @@
 | 7 | countalpha 🤝 | 10% | ✅ | ✅ |
 | 8 | countcharacter 🤝 | 10% | ✅ | ✅ |
 | 9 | printif 🤝 | 10% | ✅ | ✅ |
-| 10 | printifnot | 10% | ⬜ | ⬜ |
+| 10 | printifnot | 10% | ⬜ | ✅ |
 | 11 | rectperimeter | 10% | ⬜ | ⬜ |
 | 12 | retainfirsthalf | 10% | ⬜ | ⬜ |
 | 13 | cameltosnakecase 🤝 | 20% | ✅ | ✅ |

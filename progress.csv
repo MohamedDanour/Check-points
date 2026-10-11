@@ -1,66 +1,46 @@
-level,question,Muhammed,Zineb
-5%,only1,x,x
-5%,onlya,x,x
-5%,onlyb,x,x
-5%,onlyf,x,x
-5%,onlyz,x,x
-10%,checknumber,x,x
-10%,countalpha,x,x
-10%,countcharacter,x,x
-10%,printif,x,x
-10%,printifnot,,
-10%,rectperimeter,,
-10%,retainfirsthalf,,
-20%,cameltosnakecase,x,x
-20%,countrepeats,,
-20%,digitlen,,
-20%,firstword,,x
-20%,fishandchips,,
-20%,gcd,,x
-20%,hashcode,,
-20%,lastword,x,x
-20%,longestword,,
-20%,repeatalpha,,x
-20%,searchreplace,,
-20%,wordanatomy,,
-35%,cameltosnakecase,x,x
-35%,cleanstr,,
-35%,expandstr,,
-35%,findprevprime,,
-35%,fromto,,
-35%,iscapitalized,,
-35%,itoa,,
-35%,passwordentropy,,
-35%,printmemory,,
-35%,printrevcomb,,
-35%,thirdtimeisacharm,,
-35%,weareunique,,x
-35%,zipstring,,x
-50%,addprimesum,,
-50%,canjump,,
-50%,chunk,,
-50%,concatalternate,,
-50%,concatslice,,
-50%,fprime,,
-50%,hiddenp,,
-50%,inter,,
-50%,reversestrcap,,
-50%,saveandmiss,,
-50%,union,,
-50%,wdmatch,,
-65%,fifthandskip,,
-65%,notdecimal,,
-65%,revconcatalternate,,
-65%,slice,,
-75%,findpairs,,
-75%,revwstr,,
-75%,rostring,,
-75%,wordflip,,
-85%,itoabase,,
-85%,options,,
-85%,piglatin,,
-85%,romannumbers,,
-95%,brackets,,
-95%,rpncalc,,
-100%,brainfuck,,
-100%,grouping,,
+question,Muhammed,Zineb
+only1 (5%),x,x
+onlya (5%),x,x
+onlyb (5%),x,x
+onlyf (5%),x,x
+onlyz (5%),x,x
+checknumber (10%),x,x
+countalpha (10%),x,x
+countcharacter (10%),x,x
+printif (10%),x,x
+printifnot (10%),,
+rectperimeter (10%),,
+retainfirsthalf (10%),,
+cameltosnakecase (20%),x,x
+countrepeats (20%),,
+digitlen (20%),,
+firstword (20%),,x
+fishandchips (20%),,
+gcd (20%),,x
+hashcode (20%),,
+lastword (20%),x,x
+longestword (20%),,
+repeatalpha (20%),,x
+searchreplace (20%),,
+wordanatomy (20%),,
+cameltosnakecase (35%),x,x
+cleanstr (35%),,
+expandstr (35%),,
+findprevprime (35%),,
+fromto (35%),,
+iscapitalized (35%),,
+itoa (35%),,
+passwordentropy (35%),,
+printmemory (35%),,
+printrevcomb (35%),,
+thirdtimeisacharm (35%),,
+weareunique (35%),,x
+zipstring (35%),,x
+addprimesum (50%),,
+canjump (50%),,
+chunk (50%),,
+concatalternate (50%),,
+concatslice (50%),,
+fprime (50%),,
+hiddenp (50%),,
+inter (50%),,

@@ -23,75 +23,77 @@
 ## Progress
 
 <!-- PROGRESS:START -->
-- **Muhammed** `███░░░░░░░░░░░░░░░░░` 11 / 64 (17%)
-- **Zineb** `█████░░░░░░░░░░░░░░░` 16 / 64 (25%)
+- **level** `████████████████████` 65 / 65 (100%)
+- **Muhammed** `███░░░░░░░░░░░░░░░░░` 12 / 65 (18%)
+- **Zineb** `█████░░░░░░░░░░░░░░░` 17 / 65 (26%)
 
-🤝 Solved by both: **11 / 64**
+🤝 Solved by both: **12 / 65**
 
-| # | Question | Muhammed | Zineb |
-|---:|---|:---:|:---:|
-| 1 | only1 🤝 | ✅ | ✅ |
-| 2 | onlya 🤝 | ✅ | ✅ |
-| 3 | onlyb 🤝 | ✅ | ✅ |
-| 4 | onlyf 🤝 | ✅ | ✅ |
-| 5 | onlyz 🤝 | ✅ | ✅ |
-| 6 | checknumber 🤝 | ✅ | ✅ |
-| 7 | countalpha 🤝 | ✅ | ✅ |
-| 8 | countcharacter 🤝 | ✅ | ✅ |
-| 9 | printif 🤝 | ✅ | ✅ |
-| 10 | printifnot | ⬜ | ⬜ |
-| 11 | rectperimeter | ⬜ | ⬜ |
-| 12 | retainfirsthalf | ⬜ | ⬜ |
-| 13 | cameltosnakecase 🤝 | ✅ | ✅ |
-| 14 | countrepeats | ⬜ | ⬜ |
-| 15 | digitlen | ⬜ | ⬜ |
-| 16 | firstword | ⬜ | ✅ |
-| 17 | fishandchips | ⬜ | ⬜ |
-| 18 | gcd | ⬜ | ✅ |
-| 19 | hashcode | ⬜ | ⬜ |
-| 20 | lastword 🤝 | ✅ | ✅ |
-| 21 | longestword | ⬜ | ⬜ |
-| 22 | repeatalpha | ⬜ | ✅ |
-| 23 | searchreplace | ⬜ | ⬜ |
-| 24 | wordanatomy | ⬜ | ⬜ |
-| 25 | cleanstr | ⬜ | ⬜ |
-| 26 | expandstr | ⬜ | ⬜ |
-| 27 | findprevprime | ⬜ | ⬜ |
-| 28 | fromto | ⬜ | ⬜ |
-| 29 | iscapitalized | ⬜ | ⬜ |
-| 30 | itoa | ⬜ | ⬜ |
-| 31 | passwordentropy | ⬜ | ⬜ |
-| 32 | printmemory | ⬜ | ⬜ |
-| 33 | printrevcomb | ⬜ | ⬜ |
-| 34 | thirdtimeisacharm | ⬜ | ⬜ |
-| 35 | weareunique | ⬜ | ✅ |
-| 36 | zipstring | ⬜ | ✅ |
-| 37 | addprimesum | ⬜ | ⬜ |
-| 38 | canjump | ⬜ | ⬜ |
-| 39 | chunk | ⬜ | ⬜ |
-| 40 | concatalternate | ⬜ | ⬜ |
-| 41 | concatslice | ⬜ | ⬜ |
-| 42 | fprime | ⬜ | ⬜ |
-| 43 | hiddenp | ⬜ | ⬜ |
-| 44 | inter | ⬜ | ⬜ |
-| 45 | reversestrcap | ⬜ | ⬜ |
-| 46 | saveandmiss | ⬜ | ⬜ |
-| 47 | union | ⬜ | ⬜ |
-| 48 | wdmatch | ⬜ | ⬜ |
-| 49 | fifthandskip | ⬜ | ⬜ |
-| 50 | notdecimal | ⬜ | ⬜ |
-| 51 | revconcatalternate | ⬜ | ⬜ |
-| 52 | slice | ⬜ | ⬜ |
-| 53 | findpairs | ⬜ | ⬜ |
-| 54 | revwstr | ⬜ | ⬜ |
-| 55 | rostring | ⬜ | ⬜ |
-| 56 | wordflip | ⬜ | ⬜ |
-| 57 | itoabase | ⬜ | ⬜ |
-| 58 | options | ⬜ | ⬜ |
-| 59 | piglatin | ⬜ | ⬜ |
-| 60 | romannumbers | ⬜ | ⬜ |
-| 61 | brackets | ⬜ | ⬜ |
-| 62 | rpncalc | ⬜ | ⬜ |
-| 63 | brainfuck | ⬜ | ⬜ |
-| 64 | grouping | ⬜ | ⬜ |
+| # | Question | level | Muhammed | Zineb |
+|---:|---|:---:|:---:|:---:|
+| 1 | only1 🤝 | ✅ | ✅ | ✅ |
+| 2 | onlya 🤝 | ✅ | ✅ | ✅ |
+| 3 | onlyb 🤝 | ✅ | ✅ | ✅ |
+| 4 | onlyf 🤝 | ✅ | ✅ | ✅ |
+| 5 | onlyz 🤝 | ✅ | ✅ | ✅ |
+| 6 | checknumber 🤝 | ✅ | ✅ | ✅ |
+| 7 | countalpha 🤝 | ✅ | ✅ | ✅ |
+| 8 | countcharacter 🤝 | ✅ | ✅ | ✅ |
+| 9 | printif 🤝 | ✅ | ✅ | ✅ |
+| 10 | printifnot | ✅ | ⬜ | ⬜ |
+| 11 | rectperimeter | ✅ | ⬜ | ⬜ |
+| 12 | retainfirsthalf | ✅ | ⬜ | ⬜ |
+| 13 | cameltosnakecase 🤝 | ✅ | ✅ | ✅ |
+| 14 | countrepeats | ✅ | ⬜ | ⬜ |
+| 15 | digitlen | ✅ | ⬜ | ⬜ |
+| 16 | firstword | ✅ | ⬜ | ✅ |
+| 17 | fishandchips | ✅ | ⬜ | ⬜ |
+| 18 | gcd | ✅ | ⬜ | ✅ |
+| 19 | hashcode | ✅ | ⬜ | ⬜ |
+| 20 | lastword 🤝 | ✅ | ✅ | ✅ |
+| 21 | longestword | ✅ | ⬜ | ⬜ |
+| 22 | repeatalpha | ✅ | ⬜ | ✅ |
+| 23 | searchreplace | ✅ | ⬜ | ⬜ |
+| 24 | wordanatomy | ✅ | ⬜ | ⬜ |
+| 25 | cameltosnakecase 🤝 | ✅ | ✅ | ✅ |
+| 26 | cleanstr | ✅ | ⬜ | ⬜ |
+| 27 | expandstr | ✅ | ⬜ | ⬜ |
+| 28 | findprevprime | ✅ | ⬜ | ⬜ |
+| 29 | fromto | ✅ | ⬜ | ⬜ |
+| 30 | iscapitalized | ✅ | ⬜ | ⬜ |
+| 31 | itoa | ✅ | ⬜ | ⬜ |
+| 32 | passwordentropy | ✅ | ⬜ | ⬜ |
+| 33 | printmemory | ✅ | ⬜ | ⬜ |
+| 34 | printrevcomb | ✅ | ⬜ | ⬜ |
+| 35 | thirdtimeisacharm | ✅ | ⬜ | ⬜ |
+| 36 | weareunique | ✅ | ⬜ | ✅ |
+| 37 | zipstring | ✅ | ⬜ | ✅ |
+| 38 | addprimesum | ✅ | ⬜ | ⬜ |
+| 39 | canjump | ✅ | ⬜ | ⬜ |
+| 40 | chunk | ✅ | ⬜ | ⬜ |
+| 41 | concatalternate | ✅ | ⬜ | ⬜ |
+| 42 | concatslice | ✅ | ⬜ | ⬜ |
+| 43 | fprime | ✅ | ⬜ | ⬜ |
+| 44 | hiddenp | ✅ | ⬜ | ⬜ |
+| 45 | inter | ✅ | ⬜ | ⬜ |
+| 46 | reversestrcap | ✅ | ⬜ | ⬜ |
+| 47 | saveandmiss | ✅ | ⬜ | ⬜ |
+| 48 | union | ✅ | ⬜ | ⬜ |
+| 49 | wdmatch | ✅ | ⬜ | ⬜ |
+| 50 | fifthandskip | ✅ | ⬜ | ⬜ |
+| 51 | notdecimal | ✅ | ⬜ | ⬜ |
+| 52 | revconcatalternate | ✅ | ⬜ | ⬜ |
+| 53 | slice | ✅ | ⬜ | ⬜ |
+| 54 | findpairs | ✅ | ⬜ | ⬜ |
+| 55 | revwstr | ✅ | ⬜ | ⬜ |
+| 56 | rostring | ✅ | ⬜ | ⬜ |
+| 57 | wordflip | ✅ | ⬜ | ⬜ |
+| 58 | itoabase | ✅ | ⬜ | ⬜ |
+| 59 | options | ✅ | ⬜ | ⬜ |
+| 60 | piglatin | ✅ | ⬜ | ⬜ |
+| 61 | romannumbers | ✅ | ⬜ | ⬜ |
+| 62 | brackets | ✅ | ⬜ | ⬜ |
+| 63 | rpncalc | ✅ | ⬜ | ⬜ |
+| 64 | brainfuck | ✅ | ⬜ | ⬜ |
+| 65 | grouping | ✅ | ⬜ | ⬜ |
 <!-- PROGRESS:END -->

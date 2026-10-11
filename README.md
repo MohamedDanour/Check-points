@@ -23,77 +23,56 @@
 ## Progress
 
 <!-- PROGRESS:START -->
-- **level** `████████████████████` 65 / 65 (100%)
-- **Muhammed** `███░░░░░░░░░░░░░░░░░` 12 / 65 (18%)
-- **Zineb** `█████░░░░░░░░░░░░░░░` 17 / 65 (26%)
+- **Muhammed** `█████░░░░░░░░░░░░░░░` 12 / 45 (27%)
+- **Zineb** `███████░░░░░░░░░░░░░` 17 / 45 (38%)
 
-🤝 Solved by both: **12 / 65**
+🤝 Solved by both: **12 / 45**
 
-| # | Question | level | Muhammed | Zineb |
-|---:|---|:---:|:---:|:---:|
-| 1 | only1 🤝 | ✅ | ✅ | ✅ |
-| 2 | onlya 🤝 | ✅ | ✅ | ✅ |
-| 3 | onlyb 🤝 | ✅ | ✅ | ✅ |
-| 4 | onlyf 🤝 | ✅ | ✅ | ✅ |
-| 5 | onlyz 🤝 | ✅ | ✅ | ✅ |
-| 6 | checknumber 🤝 | ✅ | ✅ | ✅ |
-| 7 | countalpha 🤝 | ✅ | ✅ | ✅ |
-| 8 | countcharacter 🤝 | ✅ | ✅ | ✅ |
-| 9 | printif 🤝 | ✅ | ✅ | ✅ |
-| 10 | printifnot | ✅ | ⬜ | ⬜ |
-| 11 | rectperimeter | ✅ | ⬜ | ⬜ |
-| 12 | retainfirsthalf | ✅ | ⬜ | ⬜ |
-| 13 | cameltosnakecase 🤝 | ✅ | ✅ | ✅ |
-| 14 | countrepeats | ✅ | ⬜ | ⬜ |
-| 15 | digitlen | ✅ | ⬜ | ⬜ |
-| 16 | firstword | ✅ | ⬜ | ✅ |
-| 17 | fishandchips | ✅ | ⬜ | ⬜ |
-| 18 | gcd | ✅ | ⬜ | ✅ |
-| 19 | hashcode | ✅ | ⬜ | ⬜ |
-| 20 | lastword 🤝 | ✅ | ✅ | ✅ |
-| 21 | longestword | ✅ | ⬜ | ⬜ |
-| 22 | repeatalpha | ✅ | ⬜ | ✅ |
-| 23 | searchreplace | ✅ | ⬜ | ⬜ |
-| 24 | wordanatomy | ✅ | ⬜ | ⬜ |
-| 25 | cameltosnakecase 🤝 | ✅ | ✅ | ✅ |
-| 26 | cleanstr | ✅ | ⬜ | ⬜ |
-| 27 | expandstr | ✅ | ⬜ | ⬜ |
-| 28 | findprevprime | ✅ | ⬜ | ⬜ |
-| 29 | fromto | ✅ | ⬜ | ⬜ |
-| 30 | iscapitalized | ✅ | ⬜ | ⬜ |
-| 31 | itoa | ✅ | ⬜ | ⬜ |
-| 32 | passwordentropy | ✅ | ⬜ | ⬜ |
-| 33 | printmemory | ✅ | ⬜ | ⬜ |
-| 34 | printrevcomb | ✅ | ⬜ | ⬜ |
-| 35 | thirdtimeisacharm | ✅ | ⬜ | ⬜ |
-| 36 | weareunique | ✅ | ⬜ | ✅ |
-| 37 | zipstring | ✅ | ⬜ | ✅ |
-| 38 | addprimesum | ✅ | ⬜ | ⬜ |
-| 39 | canjump | ✅ | ⬜ | ⬜ |
-| 40 | chunk | ✅ | ⬜ | ⬜ |
-| 41 | concatalternate | ✅ | ⬜ | ⬜ |
-| 42 | concatslice | ✅ | ⬜ | ⬜ |
-| 43 | fprime | ✅ | ⬜ | ⬜ |
-| 44 | hiddenp | ✅ | ⬜ | ⬜ |
-| 45 | inter | ✅ | ⬜ | ⬜ |
-| 46 | reversestrcap | ✅ | ⬜ | ⬜ |
-| 47 | saveandmiss | ✅ | ⬜ | ⬜ |
-| 48 | union | ✅ | ⬜ | ⬜ |
-| 49 | wdmatch | ✅ | ⬜ | ⬜ |
-| 50 | fifthandskip | ✅ | ⬜ | ⬜ |
-| 51 | notdecimal | ✅ | ⬜ | ⬜ |
-| 52 | revconcatalternate | ✅ | ⬜ | ⬜ |
-| 53 | slice | ✅ | ⬜ | ⬜ |
-| 54 | findpairs | ✅ | ⬜ | ⬜ |
-| 55 | revwstr | ✅ | ⬜ | ⬜ |
-| 56 | rostring | ✅ | ⬜ | ⬜ |
-| 57 | wordflip | ✅ | ⬜ | ⬜ |
-| 58 | itoabase | ✅ | ⬜ | ⬜ |
-| 59 | options | ✅ | ⬜ | ⬜ |
-| 60 | piglatin | ✅ | ⬜ | ⬜ |
-| 61 | romannumbers | ✅ | ⬜ | ⬜ |
-| 62 | brackets | ✅ | ⬜ | ⬜ |
-| 63 | rpncalc | ✅ | ⬜ | ⬜ |
-| 64 | brainfuck | ✅ | ⬜ | ⬜ |
-| 65 | grouping | ✅ | ⬜ | ⬜ |
+| # | Question | Muhammed | Zineb |
+|---:|---|:---:|:---:|
+| 1 | only1 (5%) 🤝 | ✅ | ✅ |
+| 2 | onlya (5%) 🤝 | ✅ | ✅ |
+| 3 | onlyb (5%) 🤝 | ✅ | ✅ |
+| 4 | onlyf (5%) 🤝 | ✅ | ✅ |
+| 5 | onlyz (5%) 🤝 | ✅ | ✅ |
+| 6 | checknumber (10%) 🤝 | ✅ | ✅ |
+| 7 | countalpha (10%) 🤝 | ✅ | ✅ |
+| 8 | countcharacter (10%) 🤝 | ✅ | ✅ |
+| 9 | printif (10%) 🤝 | ✅ | ✅ |
+| 10 | printifnot (10%) | ⬜ | ⬜ |
+| 11 | rectperimeter (10%) | ⬜ | ⬜ |
+| 12 | retainfirsthalf (10%) | ⬜ | ⬜ |
+| 13 | cameltosnakecase (20%) 🤝 | ✅ | ✅ |
+| 14 | countrepeats (20%) | ⬜ | ⬜ |
+| 15 | digitlen (20%) | ⬜ | ⬜ |
+| 16 | firstword (20%) | ⬜ | ✅ |
+| 17 | fishandchips (20%) | ⬜ | ⬜ |
+| 18 | gcd (20%) | ⬜ | ✅ |
+| 19 | hashcode (20%) | ⬜ | ⬜ |
+| 20 | lastword (20%) 🤝 | ✅ | ✅ |
+| 21 | longestword (20%) | ⬜ | ⬜ |
+| 22 | repeatalpha (20%) | ⬜ | ✅ |
+| 23 | searchreplace (20%) | ⬜ | ⬜ |
+| 24 | wordanatomy (20%) | ⬜ | ⬜ |
+| 25 | cameltosnakecase (35%) 🤝 | ✅ | ✅ |
+| 26 | cleanstr (35%) | ⬜ | ⬜ |
+| 27 | expandstr (35%) | ⬜ | ⬜ |
+| 28 | findprevprime (35%) | ⬜ | ⬜ |
+| 29 | fromto (35%) | ⬜ | ⬜ |
+| 30 | iscapitalized (35%) | ⬜ | ⬜ |
+| 31 | itoa (35%) | ⬜ | ⬜ |
+| 32 | passwordentropy (35%) | ⬜ | ⬜ |
+| 33 | printmemory (35%) | ⬜ | ⬜ |
+| 34 | printrevcomb (35%) | ⬜ | ⬜ |
+| 35 | thirdtimeisacharm (35%) | ⬜ | ⬜ |
+| 36 | weareunique (35%) | ⬜ | ✅ |
+| 37 | zipstring (35%) | ⬜ | ✅ |
+| 38 | addprimesum (50%) | ⬜ | ⬜ |
+| 39 | canjump (50%) | ⬜ | ⬜ |
+| 40 | chunk (50%) | ⬜ | ⬜ |
+| 41 | concatalternate (50%) | ⬜ | ⬜ |
+| 42 | concatslice (50%) | ⬜ | ⬜ |
+| 43 | fprime (50%) | ⬜ | ⬜ |
+| 44 | hiddenp (50%) | ⬜ | ⬜ |
+| 45 | inter (50%) | ⬜ | ⬜ |
 <!-- PROGRESS:END -->

@@ -8,7 +8,7 @@ level,question,Muhammed,Zineb
 10%,countalpha,x,x
 10%,countcharacter,x,x
 10%,printif,x,x
-10%,printifnot,,
+10%,printifnot,,x
 10%,rectperimeter,,
 10%,retainfirsthalf,,
 20%,cameltosnakecase,x,x

@@ -24,7 +24,7 @@
 
 <!-- PROGRESS:START -->
 - **Muhammed** `███░░░░░░░░░░░░░░░░░` 12 / 65 (18%)
-- **Zineb** `██████░░░░░░░░░░░░░░` 20 / 65 (31%)
+- **Zineb** `██████░░░░░░░░░░░░░░` 21 / 65 (32%)
 
 🤝 Solved by both: **12 / 65**
 
@@ -44,7 +44,7 @@
 | 12 | retainfirsthalf | 10% | ⬜ | ✅ |
 | 13 | cameltosnakecase 🤝 | 20% | ✅ | ✅ |
 | 14 | countrepeats | 20% | ⬜ | ⬜ |
-| 15 | digitlen | 20% | ⬜ | ⬜ |
+| 15 | digitlen | 20% | ⬜ | ✅ |
 | 16 | firstword | 20% | ⬜ | ✅ |
 | 17 | fishandchips | 20% | ⬜ | ⬜ |
 | 18 | gcd | 20% | ⬜ | ✅ |

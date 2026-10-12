@@ -28,7 +28,6 @@ func printInt(n int) {
 		z01.PrintRune(rune)
 	} 
 }
-
 func main() {
 	printStr("hello\n")
 	printInt(42)

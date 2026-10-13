@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"piscine"
 )
 
 func RepeatAlpha(s string) string {
@@ -24,7 +23,7 @@ func RepeatAlpha(s string) string {
 			}
 
 		} else {
-			word += char 
+			word += string(char) 
 		}
 	}
 	return word

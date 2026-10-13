@@ -19,27 +19,26 @@ run go mod init firstword (eg folder name)
 
 package main
 
-import (
-    "fmt"
-)
-
-func main() {
-    fmt.Print(FirstWord("hello there"))
-    fmt.Print(FirstWord(""))
-    fmt.Print(FirstWord("hello   .........  bye"))
-}
+import "fmt"
 
 func FirstWord(s string) string {
-    word := ""
-
-	for _, charachter := range s {
-		if charachter == ' ' && len(word) == 0 { // space charachter and the word is still empty
+	
+	// new_string can only stop being empty if something gets added, but nothing can be added until it stops being empty.
+	word := ""
+	for _, char := range s {
+		if char == ' ' {
+			if word != "" {
+				break
+			}
 			continue
-		} else if charachter == ' ' && len(word) > 0 { // space charachter and the word is not empty
-			break 
-		} else {
-			word += string(charachter)
 		}
+		word += string(char)
 	}
 	return word + "\n"
+}
+
+func main() {
+	fmt.Print(FirstWord("hello there"))
+	fmt.Print(FirstWord(""))
+	fmt.Print(FirstWord("hello   .........  bye"))
 }

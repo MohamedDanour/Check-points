@@ -43,3 +43,22 @@ func main() {
     fmt.Println(Itoa(-1234))
     fmt.Println(Itoa(987654321))
 }
+
+
+
+/*
+package main 
+
+import "github.com/01-edu/z01"
+
+func printStr(s string) {
+	for _, rune := range s {
+		z01.PrintRune(rune)
+	}
+}
+*/
+
+
+
+
+

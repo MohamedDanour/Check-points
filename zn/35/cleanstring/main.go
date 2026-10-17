@@ -5,7 +5,12 @@
 
 // ALMOST ALMOST LIKE FIRSTWORD, BUT DONT BREAK WHEN A WORD IS completed and collected
 
-import "fmt"
+package main 
+
+import (
+    "fmt"
+    "os"
+)
 
 func main() {
     if len(os.Args) != 2 {
@@ -17,8 +22,21 @@ func main() {
 }
 
 func CleanString(s string) string {
-    // gå igenom s, samla ord avgränsade av ' ' och '\t',
-    // sätt ihop dem med exakt ett mellanslag
+	new_string := ""
+	need_space := false //mellanslag/tab efter ett ord?
+
+	for _, char := range s {
+		if char == ' ' || char == '\t' {
+			if len(new_string) > 0 {
+				need_space = true
+			}
+		} else {
+			if need_space {
+				new_string += " "
+				need_space = false
+			}
+			new_string += string(char)
+		}
+	}
+	return new_string
 }
-
-

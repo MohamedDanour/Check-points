@@ -18,13 +18,13 @@ func expandstr(s string) string {
 	needs_spaces := false
 
 	for _, char := range s {
-		if char >= '!' && char <= '~' { // visible character
+		if char >= '!' && char <= '~' { // visible char
 			if needs_spaces && len(new_string) != 0 { // skip spaces in beginning (leading spaces)
-				new_string += "   " // three spaces
+				new_string += "   " 
 			}
 			needs_spaces = false
 			new_string += string(char)
-		} else { // invisible character = separator
+		} else { 
 			needs_spaces = true
 		}
 	}

@@ -22,8 +22,8 @@ func expandstr(s string) string {
 			if needs_spaces && len(new_string) != 0 { // skip spaces in beginning (leading spaces)
 				new_string += "   " 
 			}
-			needs_spaces = false
-			new_string += string(char)
+			needs_spaces = false // reset after adding spaces
+			new_string += string(char) // add the char 
 		} else { 
 			needs_spaces = true
 		}

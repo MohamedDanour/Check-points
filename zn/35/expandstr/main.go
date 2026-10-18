@@ -32,6 +32,7 @@ func expandstr(s string) string {
 }
 
 
+
 // NOTES
 // A character is visible if its ASCII code is between 33 (!) and 126 (~)
 // A character is not visible if its ASCII code is 32 (space) or lower, or 127 (DEL).

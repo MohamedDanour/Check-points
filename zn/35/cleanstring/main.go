@@ -25,7 +25,6 @@ func cleanstr(s string) string {
 		} else { // with else here we are standing on the next letter no need s[index+1]
 			if needs_space && len(new_word) != 0 { // handles start of the string 
 				new_word += " "
-				needs_space = false // RESET
 			}
 			needs_space = false // reset on every letter, not only when a space was added
 			new_word += string(char) // we add the space only after checkling if needs_space is true so it wont gets added as if it were a letter 

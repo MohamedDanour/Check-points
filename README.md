@@ -24,7 +24,7 @@
 
 <!-- PROGRESS:START -->
 - **Muhammed** `███░░░░░░░░░░░░░░░░░` 12 / 65 (18%)
-- **Zineb** `███████░░░░░░░░░░░░░` 23 / 65 (35%)
+- **Zineb** `███████░░░░░░░░░░░░░` 25 / 65 (38%)
 
 🤝 Solved by both: **12 / 65**
 
@@ -52,10 +52,10 @@
 | 20 | lastword 🤝 | 20% | ✅ | ✅ |
 | 21 | longestword | 20% | ⬜ | ⬜ |
 | 22 | repeatalpha | 20% | ⬜ | ✅ |
-| 23 | searchreplace | 20% | ⬜ | ⬜ |
+| 23 | searchreplace | 20% | ⬜ | ✅ |
 | 24 | wordanatomy | 20% | ⬜ | ⬜ |
 | 25 | cameltosnakecase 🤝 | 35% | ✅ | ✅ |
-| 26 | cleanstr | 35% | ⬜ | ⬜ |
+| 26 | cleanstr | 35% | ⬜ | ✅ |
 | 27 | expandstr | 35% | ⬜ | ⬜ |
 | 28 | findprevprime | 35% | ⬜ | ⬜ |
 | 29 | fromto | 35% | ⬜ | ⬜ |

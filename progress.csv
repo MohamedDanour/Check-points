@@ -1,66 +1,67 @@
-level,question,Muhammed,Zineb
-5%,only1,x,x
-5%,onlya,x,x
-5%,onlyb,x,x
-5%,onlyf,x,x
-5%,onlyz,x,x
-10%,checknumber,x,x
-10%,countalpha,x,x
-10%,countcharacter,x,x
-10%,printif,x,x
-10%,printifnot,,x
-10%,rectperimeter,,x
-10%,retainfirsthalf,,x
-20%,cameltosnakecase,x,x
-20%,countrepeats,,
-20%,digitlen,,x
-20%,firstword,,x
-20%,fishandchips,,x
-20%,gcd,,x
-20%,hashcode,,x
-20%,lastword,x,x
-20%,longestword,,
-20%,repeatalpha,,x
-20%,searchreplace,,x
-20%,wordanatomy,,
-35%,cameltosnakecase,x,x
-35%,cleanstr,,x
-35%,expandstr,,
-35%,findprevprime,,
-35%,fromto,,
-35%,iscapitalized,,
-35%,itoa,,
-35%,passwordentropy,,
-35%,printmemory,,
-35%,printrevcomb,,
-35%,thirdtimeisacharm,,
-35%,weareunique,,x
-35%,zipstring,,x
-50%,addprimesum,,
-50%,canjump,,
-50%,chunk,,
-50%,concatalternate,,
-50%,concatslice,,
-50%,fprime,,
-50%,hiddenp,,
-50%,inter,,
-50%,reversestrcap,,
-50%,saveandmiss,,
-50%,union,,
-50%,wdmatch,,
-65%,fifthandskip,,
-65%,notdecimal,,
-65%,revconcatalternate,,
-65%,slice,,
-75%,findpairs,,
-75%,revwstr,,
-75%,rostring,,
-75%,wordflip,,
-85%,itoabase,,
-85%,options,,
-85%,piglatin,,
-85%,romannumbers,,
-95%,brackets,,
-95%,rpncalc,,
-100%,brainfuck,,
-100%,grouping,,
+| Exercise | Level |
+|---|:---:|
+| only1 | 5% |
+| onlya | 5% |
+| onlyb | 5% |
+| onlyf | 5% |
+| onlyz | 5% |
+| checknumber | 10% |
+| countalpha | 10% |
+| countcharacter | 10% |
+| printif | 10% |
+| printifnot | 10% |
+| rectperimeter | 10% |
+| retainfirsthalf | 10% |
+| cameltosnakecase | 20% |
+| countrepeats | 20% |
+| digitlen | 20% |
+| firstword | 20% |
+| fishandchips | 20% |
+| gcd | 20% |
+| hashcode | 20% |
+| lastword | 20% |
+| longestword | 20% |
+| repeatalpha | 20% |
+| searchreplace | 20% |
+| wordanatomy | 20% |
+| cameltosnakecase | 35% |
+| cleanstr | 35% |
+| expandstr | 35% |
+| findprevprime | 35% |
+| fromto | 35% |
+| iscapitalized | 35% |
+| itoa | 35% |
+| passwordentropy | 35% |
+| printmemory | 35% |
+| printrevcomb | 35% |
+| thirdtimeisacharm | 35% |
+| weareunique | 35% |
+| zipstring | 35% |
+| addprimesum | 50% |
+| canjump | 50% |
+| chunk | 50% |
+| concatalternate | 50% |
+| concatslice | 50% |
+| fprime | 50% |
+| hiddenp | 50% |
+| inter | 50% |
+| reversestrcap | 50% |
+| saveandmiss | 50% |
+| union | 50% |
+| wdmatch | 50% |
+| fifthandskip | 65% |
+| notdecimal | 65% |
+| revconcatalternate | 65% |
+| slice | 65% |
+| findpairs | 75% |
+| revwstr | 75% |
+| rostring | 75% |
+| wordflip | 75% |
+| itoabase | 85% |
+| options | 85% |
+| piglatin | 85% |
+| romannumbers | 85% |
+| brackets | 95% |
+| rpncalc | 95% |
+| brainfuck | 100% |
+| grouping | 100% |

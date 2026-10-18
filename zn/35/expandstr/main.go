@@ -10,7 +10,7 @@ func main() {
 		return // display nothing
 	} 
 
-	fmt.Println(expandstr(os.Args[1])) // Println adds the '\n' for us
+	fmt.Println(expandstr(os.Args[1])) // Println adds the '\n' 
 }
 
 func expandstr(s string) string {

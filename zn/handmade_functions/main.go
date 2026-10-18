@@ -1,7 +1,6 @@
 // no printing whole strings 
 // no converting Integers to Ascii 
 
-
 package main 
 
 import "github.com/01-edu/z01"

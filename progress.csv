@@ -21,10 +21,10 @@ level,question,Muhammed,Zineb
 20%,lastword,x,x
 20%,longestword,,
 20%,repeatalpha,,x
-20%,searchreplace,,
+20%,searchreplace,,x
 20%,wordanatomy,,
 35%,cameltosnakecase,x,x
-35%,cleanstr,,
+35%,cleanstr,,x
 35%,expandstr,,
 35%,findprevprime,,
 35%,fromto,,

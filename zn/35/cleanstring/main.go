@@ -19,14 +19,14 @@ func cleanstr(s string) string {
 	needs_space := false
 
 	for _, char := range s {
-		// we need to structure it so that something decides which branch (there are two) a space goes to
+	
 		if char == ' ' || char == '\t' {
 			needs_space = true
-		} else { // with else here we are standing on the next letter no need s[index+1]
+		} else { 
 			if needs_space && len(new_word) != 0 { // handles start of the string 
 				new_word += " "
 			}
-			needs_space = false // reset on every letter, not only when a space was added
+			needs_space = false // reset on every letter
 			new_word += string(char) // we add the space only after checkling if needs_space is true so it wont gets added as if it were a letter 
 		}	
 	}

@@ -22,10 +22,15 @@ func IsCapitalized(s string) bool {
 		return false
 	}
 
-	for index, character := range s {
-		if (index == 0 || s[index-1] == ' ') && character >= 'a' && character <= 'z' {
+	for index, char := range s {
+		if index == 0 && char >= 'a' && char <= 'z' {
 			return false
 		}
-	}
+		
+		if index != 0 && s[index-1] == ' ' && (char >= 'a' && char <= 'z') {
+			return false  
+		}
+	} 
 	return true
 }
+

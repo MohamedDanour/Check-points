@@ -1,41 +1,8 @@
 // transforms a number represented as anint in a number represented as a string
 
-
-
-
 package main
 
-import (
-	"fmt"
-)
-
-func Itoa(n int) string {
-	// noll check 
-	if n == 0 {
-		return "0"
-	}
-	
-	// negative check
-	isNegative := false 
-	if n < 0 {
-		isNegative = true 
-		n = -n
-	}
-
-	integer_string := ""
-
-	// convert the integer into the charachter version so we can add it to a string : '0' (eg. 48) + the integer value, is to convert to ascii
-	for n > 0 {
-		integer_string = string('0' + rune(n%10)) + integer_string 
-		n = n / 10
-	}
-
-	if isNegative {
-		integer_string = "-" + integer_string
-	}
-
-	return integer_string
-}
+import "fmt"
 
 func main() {
     fmt.Println(Itoa(12345))
@@ -45,20 +12,31 @@ func main() {
 }
 
 
+func Itoa(n int) string {
 
-/*
-package main 
+	integer_string := ""
 
-import "github.com/01-edu/z01"
-
-func printStr(s string) {
-	for _, rune := range s {
-		z01.PrintRune(rune)
+	if n == 0 {
+		return "0"
 	}
+
+	is_negative := false
+
+	if n < 0 {
+		is_negative = true
+		n = -n // make n positive so loop runs later
+	}
+
+	for n > 0 {
+		integer_string = string('0'+rune(n%10)) + integer_string
+		n = n / 10
+	}
+
+	if is_negative {
+		integer_string = "-" + integer_string // add the sign once, at the front AFTER LOOP 
+	}
+
+	return integer_string
 }
-*/
-
-
-
 
 

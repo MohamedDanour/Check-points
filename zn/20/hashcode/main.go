@@ -5,17 +5,17 @@ import (
 )
 
 func HashCode(dec string) string {
-	string_size := len(dec)
-	hashed_string := ""
+	string_size := rune(len(dec))
+	new_string := ""
 
 	for _, char := range dec {
-		hash := (int(char) + string_size) % 127
-		if hash < 32 || hash == 127 {
-			hash += 33
+		char = (char + string_size) % 127
+		if char < 32 { // unprintable
+			char += 33
 		}
-		hashed_string += string(rune(hash))
+		new_string += string(char)
 	}
-	return hashed_string
+	return new_string
 }
 
 func main() {

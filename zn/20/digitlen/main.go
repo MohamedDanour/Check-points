@@ -5,6 +5,7 @@ import (
 )
 
 func DigitLen(n, base int) int {
+
 	if !(base >= 2 && base <= 36) {
 		return -1
 	} 
@@ -13,15 +14,14 @@ func DigitLen(n, base int) int {
 		n = -n
 	}
 
-	num_of_divs := 0
+	count := 0
 
-	for n > 1 {
+	for n > 0 {
 		n = n / base
-		num_of_divs += 1
-	} 
-
-	return num_of_divs
-
+		count += 1
+	}
+	return count 
+	
 }
 
 func main() {
